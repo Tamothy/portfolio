@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 80px;
+}
+
+img {
+  width: 480px;
+  height: 50%;
+}
+
+body {
+  padding: 50px;
+}
+
+.column {
+  width: 400px;
+  float: left;
+  padding: 50px;
+  align-content: center;
+}
+
+.classy {
+  color: #FF0000;
+}
+
+.box {
+  padding-top: 20px;
+  border: 2px;
+  margin: 5px;
+}
