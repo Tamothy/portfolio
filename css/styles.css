@@ -17,6 +17,14 @@ img {
   height: 50%;
 }
 
+ul li a {
+  color: red;
+}
+
+ol li em {
+  color: red;
+}
+
 .box {
   padding-top: 20px;
   border: 2px;
