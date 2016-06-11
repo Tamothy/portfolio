@@ -11,7 +11,7 @@ This portfolio contains examples of HTML and CSS projects done in the past. In a
 ## Setup/Installation Requirements
 
 * Check out the GitHub pages link: https://tamothy.github.io/portfolio
-* Clone respository if interested in changing portfolio
+* Clone repository if interested in changing portfolio
 * Use Atom to customize changes
 * Make sure to commit regularly on terminal
 * Don't forget to push to remote repository
@@ -34,4 +34,4 @@ CSS
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2015 **Tam Nguyen**
+Copyright (c) 2016 **Tam Nguyen**
